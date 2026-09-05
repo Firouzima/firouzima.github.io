@@ -7,6 +7,6 @@ title: "CV"
 
 ## Curriculum Vitae
 
-[**Download CV (PDF)**](files/Firouzi_M_CV.pdf)
+[**Download CV (PDF)](files/Firouzi_M_CV.pdf)**
 
 *Last updated: September 2026*
