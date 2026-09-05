@@ -11,7 +11,7 @@ title: "Home"
 
 Before UoT, I received my bachelor's degree in Economics, with a specialization in Quantitative Economics, from the National University of Iran.
 
-You can always reach me at firouzima\@ut.ac.ir
+You can always reach me at firouzima@ut.ac.ir
 
 ### Elsewhere
 
