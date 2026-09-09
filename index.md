@@ -16,4 +16,3 @@ You can always reach me at firouzima@ut.ac.ir
 ### Elsewhere
 
 - [LinkedIn](https://www.linkedin.com/in/firouzima/)
-- [GitHub](https://github.com/Firouzima/)
